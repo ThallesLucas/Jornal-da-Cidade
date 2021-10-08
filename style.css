@@ -88,3 +88,19 @@ iframe{
     width: 600px;
     height: 350px;
 }
+footer{
+    background-color: #4ABDAC;
+    margin: 0px;
+}
+.cabeçalho{
+    margin: 0%;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 20px;
+    color: white;
+}
+.construçao{
+    margin: 30px 300px;
+    width: 900px;
+
+}
