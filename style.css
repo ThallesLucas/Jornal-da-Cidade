@@ -104,3 +104,8 @@ footer{
     width: 900px;
 
 }
+@font-face {
+    font-family: 'Valid Harmony';
+    src: url(fontes/Valid\ Harmony.otf);
+    src: url(fontes/Valid\ Harmony.ttf);
+}
