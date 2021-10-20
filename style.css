@@ -106,6 +106,6 @@ footer{
 }
 @font-face {
     font-family: 'Valid Harmony';
-    src: url(fontes/Valid\ Harmony.otf);
-    src: url(fontes/Valid\ Harmony.ttf);
+    src: url(fontes/Valid\ Harmony.otf) format('embedded-opentype');
+    src: url(fontes/Valid\ Harmony.ttf) format('opentype');
 }
